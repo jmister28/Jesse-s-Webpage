@@ -8,3 +8,4 @@ class Init
 end
 @jesse = Init.new
 @jesse.init("Jesse", "Test")
+@jesse.add("hi")
