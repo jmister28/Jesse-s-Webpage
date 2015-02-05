@@ -13,8 +13,4 @@ def var_import(variable_name)
     puts "make ll equal to @example_variable.var_import(variable_name) and call puts on ll"
 end
 end
-@nancy = Init.new
-@nancy.init("nancy", "test")
-@nancy.add("hi")
-hi = "we"
-@nancy.var_import(hi)
+
